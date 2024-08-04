@@ -1,0 +1,29 @@
+{
+  "fonts": [
+    {
+      "fontName": "고은바탕",
+      "fontFamily": "GowunBatang",
+      "files": ["GowunBatang-Bold.ttf", "GowunBatang-Regular.ttf"]
+    },
+    {
+      "fontName": "Pretendard",
+      "fontFamily": "Pretendard",
+      "files": ["Pretendard-Bold.ttf", "Pretendard-Regular.ttf", "Pretendard-Light.ttf"]
+    },
+    {
+      "fontName": "Poppins",
+      "fontFamily": "Poppins",
+      "files": ["Poppins-Bold.ttf", "Poppins-Regular.ttf", "Poppins-Light.ttf"]
+    },
+    {
+      "fontName": "고은바탕체",
+      "fontFamily": "GowunBatangChe",
+      "files": ["Poppins-Bold.ttf", "GowunBatangChe-Regular.ttf"]
+    },
+    {
+      "fontName": "고은명조체",
+      "fontFamily": "GowunMingjoChe",
+      "files": ["GowunMingjoChe-Bold.ttf", "GowunMingjoChe-Regular.ttf"]
+    }
+  ]
+}
