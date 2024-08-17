@@ -1,11 +1,6 @@
 {
   "fonts": [
     {
-      "fontName": "고은바탕",
-      "fontFamily": "GowunBatang",
-      "files": ["GowunBatang-Bold.ttf", "GowunBatang-Regular.ttf"]
-    },
-    {
       "fontName": "Pretendard",
       "fontFamily": "Pretendard",
       "files": ["Pretendard-Bold.ttf", "Pretendard-Regular.ttf", "Pretendard-Light.ttf"]
@@ -16,14 +11,37 @@
       "files": ["Poppins-Bold.ttf", "Poppins-Regular.ttf", "Poppins-Light.ttf"]
     },
     {
-      "fontName": "고은바탕체",
-      "fontFamily": "GowunBatangChe",
-      "files": ["Poppins-Bold.ttf", "GowunBatangChe-Regular.ttf"]
+      "fontName": "LINE Seed Korean",
+      "fontFamily": "LINESeedKR",
+      "files": ["LINESeedKR-Bd.ttf", "LINESeedKR-Rg.ttf", "LINESeedKR-Th.ttf"],
+      "locale": "ko"
     },
     {
-      "fontName": "고은명조체",
-      "fontFamily": "GowunMingjoChe",
-      "files": ["GowunMingjoChe-Bold.ttf", "GowunMingjoChe-Regular.ttf"]
+      "fontName": "Dovemayo Gothic",
+      "fontFamily": "Dovemayo_gothic",
+      "files": ["Dovemayo_gothic.ttf"],
+      "locale": "ko"
+    },
+    {
+      "fontName": "Dovemayo Wild",
+      "fontFamily": "Dovemayo_wild",
+      "files": ["Dovemayo_wild.ttf"],
+      "locale": "ko"
+    },
+    {
+      "fontName": "ONE Mobile",
+      "fontFamily": "ONEMobile",
+      "files": ["ONEMobile-Bold.ttf", "ONEMobile-Light.ttf", "ONEMobile-Regular.ttf"]
+    },
+    {
+      "fontName": "Gowun Batang",
+      "fontFamily": "GowunBatang",
+      "files": ["GowunBatang-Bold.ttf", "GowunBatang-Regular.ttf"]
+    },
+    {
+      "fontName": "Maru Buri",
+      "fontFamily": "MaruBuri",
+      "files": ["MaruBuri-Bold.ttf", "MaruBuri-Light.ttf", "MaruBuri-Regular.ttf"]
     }
   ]
 }
