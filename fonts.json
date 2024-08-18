@@ -17,6 +17,12 @@
       "locale": "ko"
     },
     {
+      "fontName": "LINE Seed Japanese",
+      "fontFamily": "LINESeedJP",
+      "files": ["LINESeedJP_A_TTF_Eb.ttf", "LINESeedJP_A_TTF_Bd.ttf", "LINESeedJP_A_TTF_Rg.ttf", "LINESeedJP_A_TTF_Th.ttf"],
+      "locale": "ja"
+    },
+    {
       "fontName": "Dovemayo Gothic",
       "fontFamily": "Dovemayo_gothic",
       "files": ["Dovemayo_gothic.ttf"],
